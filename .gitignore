@@ -176,3 +176,18 @@ tags
 
 # wandb
 wandb
+
+*.png
+
+*.pt
+
+examples/controlnet/controlnet-exp1
+examples/controlnet/controlnet-demo
+examples/controlnet/*.sh
+
+output
+
+notebooks
+
+my_scripts
+alleta
