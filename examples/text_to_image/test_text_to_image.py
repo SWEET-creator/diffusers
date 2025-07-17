@@ -24,6 +24,7 @@ from diffusers import DiffusionPipeline, UNet2DConditionModel  # noqa: E402
 
 
 sys.path.append("..")
+sys.path.append(os.path.join(os.path.dirname(__file__), ".."))
 from test_examples_utils import ExamplesTestsAccelerate, run_command  # noqa: E402
 
 
